@@ -34,5 +34,5 @@ jobs:
           fields: repo,commit,message,author # default: repo,commit
         env:
           # Need dedicated webhook URL that receives and post to a specific channel
-          SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
+          SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
 
